@@ -1,0 +1,46 @@
+  h1{
+    font-family: 'Ms Madi', cursive;
+    background-color: #5C5E84;
+    text-align: center;
+   }
+  #inicio{
+    font-family: 'Dancing Script', cursive;
+    font-weight: bolder;
+    font-display: center;
+    color: #FDFFFC;
+    float: right;
+  }
+  p {
+    top: 50%;
+    right: 10px;
+  }
+  body{
+    background-image: url(https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    padding: 3%;
+  }
+  .details{
+    font-size: large;
+  }
+  #foto{
+    border-radius: 50%;
+    image-rendering: auto;
+    width: 150px;
+    float: left;
+    padding: 10px;
+    background-color: #981F2D;
+  }
+  #skills{
+    color: #FDFFFC;
+  }
+  .imagetc{
+    height: 200px;
+    color: #FDFFFC;
+    position: relative;
+  }
+  ol li:nth-child(odd){
+    background-color: #363457;
+  }
+  h2, ul li{
+    color: #FDFFFC;
+  }
